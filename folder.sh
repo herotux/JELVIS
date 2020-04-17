@@ -1,4 +1,4 @@
-cd /home/kia/Desktop/
+cd ~/Desktop/
 mkdir NewProject
 cd NewProject
-sublime-text newfile.py
+touch newfile.py
